@@ -1,0 +1,3 @@
+python版本3.6-3.10均可
+torch==1.12.0
+sklearn
